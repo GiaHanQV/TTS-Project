@@ -1,0 +1,1 @@
+python finetune/merge_lora.py --base_model pnnbao-ump/VieNeu-TTS-0.3B --lora_model finetune/output/VieNeu-TTS-0.3B-LoRA/checkpoint-900 --output_dir my_custom_voice
